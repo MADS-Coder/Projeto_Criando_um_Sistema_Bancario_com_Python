@@ -1,2 +1,4 @@
-# Projeto_Criando_um_Sistema_Bancário_com_Python
- Projeto - Criando um Sistema Bancário com Python
+# Desafio: Criando um sistema bancário
+ ## Objetivo Geral
+
+ # Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
