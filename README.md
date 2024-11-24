@@ -1,7 +1,7 @@
-# Desafio: Criando um sistema bancário
+# :dart: Desafio: Criando um sistema bancário
 <img src="https://cdn-icons-png.flaticon.com/512/10986/10986503.png" width="30%">
 
-## Objetivo Geral
+## :pushpin: Objetivo Geral
 
 > Criar um sistema bancário com as operações: `sacar`, `depositar` e `visualizar extrato`.
 
