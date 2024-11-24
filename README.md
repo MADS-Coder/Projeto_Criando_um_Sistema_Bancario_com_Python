@@ -1,5 +1,5 @@
 # Desafio: Criando um sistema bancário
-<img src="(https://cdn-icons-png.flaticon.com/512/10986/10986503.png)" width="50%">
+<img src="https://cdn-icons-png.flaticon.com/512/10986/10986503.png" width="30%">
 
 ## Objetivo Geral
 
